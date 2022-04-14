@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vagnerturella
-- 👀 I’m interested in learn and improve my development in programming.
+- 👀 I’m interested in learn and improve web development.
 - 🌱 I’m currently learning Html, CSS and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my email: vagnertrll@gmail.com or phone number: (54)999517251.
