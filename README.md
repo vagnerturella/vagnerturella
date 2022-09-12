@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Vagner, um desenvolvedor frontend apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Vagner, um desenvolvedor frontend!</h1>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript para desenvolver em ambas as frentes.
